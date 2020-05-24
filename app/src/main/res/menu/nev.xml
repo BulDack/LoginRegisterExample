@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_menu1"
+        android:icon="@drawable/ic_subscriptions_black_24dp"
+        android:enabled="true"
+        android:title="구독" />
+
+    <item
+        android:id="@+id/navigation_menu2"
+        android:icon="@drawable/ic_schedule_black_24dp"
+        android:enabled="true"
+        android:title="스케줄" />
+
+    <item
+        android:id="@+id/navigation_menu3"
+        android:icon="@drawable/ic_mail_black_24dp"
+        android:enabled="true"
+        android:title="메일" />
+
+    <item
+        android:id="@+id/navigation_menu4"
+        android:icon="@drawable/ic_school_black_24dp"
+        android:enabled="true"
+        android:title="학교" />
+
+</menu>
